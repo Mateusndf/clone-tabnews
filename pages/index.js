@@ -2,7 +2,7 @@ import React from "react";
 
 function Home() {
   const githubUser = "Mateusndf";
-  const githubRepo = "clone-tabnews";
+  const githubRepo = "cognews";
 
   return (
     <div

@@ -1,7 +1,7 @@
 {
-  "name": "clone-tabnews",
+  "name": "cognews",
   "version": "1.0.0",
-  "description": "ImplementaÃ§Ã£o do https://www.tabnews.com.br/ para curso.dev",
+  "description": "Uma plataforma voltada para estudantes, pesquisadores e professores compartilharem conteúdos acadêmicos, artigos, debates e projetos. Inspirada na estrutura e simplicidade do https://www.tabnews.com.br/ criado por Filipe Deschamps.",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
